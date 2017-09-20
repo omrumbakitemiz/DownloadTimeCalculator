@@ -1,6 +1,6 @@
-# downloadtimecalculator
+# Download Time Calculator
 
-> My remarkable app
+> Electron download time calculator
 
 
 ## Dev
