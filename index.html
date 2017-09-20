@@ -13,16 +13,24 @@
   <div class="container-fluid">
     <div class="row text-center">
       <header>
-        <h1>İndirme Süresi Hesaplama</h1>
+        <h1>Download Time Calculator</h1>
       </header>
     </div>
 
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-md-4 satir">
         <input id="fileSize" type="text" placeholder="Dosya Boyutu">
+        <select class="select" class="form-control" id="sizeType">
+            <option>GB</option>
+            <option>MB</option>
+        </select>
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4 satir">
         <input id="speed" type="text" placeholder="Veri Aktarım Hızı">
+        <select class="select" class="form-control" id="speedType">
+            <option>MB/s</option>
+            <option>KB/s</option>
+        </select>
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4 satir">
         <input id="result" type="text" placeholder="Sonuç">
@@ -31,12 +39,13 @@
 
     <div class="row">
       <div class="col-md-12 text-center">
-        <button class="btn btn-success" type="submit">Hesapla</button>
+        <button id="calculate" class="btn btn-success" type="submit">Hesapla</button>
       </div>
     </div>
   </div>
 
   <!-- <section class="main"></section> -->
+  <script type="text/javascript" src="calculate.js"></script>
 </body>
 
 </html>

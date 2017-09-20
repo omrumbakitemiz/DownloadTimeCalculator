@@ -21,7 +21,7 @@ header {
 }
 
 header h1 {
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 100;
   margin: 0;
   padding: 0;
@@ -37,11 +37,16 @@ header h1 {
 
 .satir {
   float: none;
-  margin: 5px auto;
+  margin: 8px auto;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
 .col-sm-6 {
   text-align: center;
+}
+
+.select {
+  font-size: 17px;
+  width: auto;
 }
