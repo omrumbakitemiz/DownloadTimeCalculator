@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="index.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M"
     crossorigin="anonymous">
+  <link rel="stylesheet" href="toggle-button.css">
 </head>
 
 <body>
@@ -15,6 +16,11 @@
       <header>
         <h1>Download Time Calculator</h1>
       </header>
+      <span class="span">Dark Mode</span>
+      <label class="switch">
+        <input id="modeChange" type="checkbox">
+        <span class="slider round"></span>
+      </label>
     </div>
 
     <div class="row">
@@ -46,6 +52,7 @@
 
   <!-- <section class="main"></section> -->
   <script type="text/javascript" src="calculate.js"></script>
+  <script type="text/javascript" src="changeMode.js"></script>
 </body>
 
 </html>

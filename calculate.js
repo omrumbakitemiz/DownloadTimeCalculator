@@ -24,7 +24,7 @@ function calculate() {
   }
 
   const timeResult = calculateTime(_fileSize, _speed);
-  result.value = timeResult;
+  result.value = new Date(timeResult * 1000).toISOString().substr(11, 8); // Conveting to hhmmss from seconds
 }
 
 calculateButton.addEventListener('click', () => {

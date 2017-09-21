@@ -50,3 +50,7 @@ header h1 {
   font-size: 17px;
   width: auto;
 }
+
+.span {
+  float: left;
+}

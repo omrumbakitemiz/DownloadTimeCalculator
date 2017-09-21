@@ -1,8 +1,8 @@
 {
   "name": "downloadtimecalculator",
   "productName": "Downloadtimecalculator",
-  "version": "0.0.0",
-  "description": "My remarkable app",
+  "version": "0.0.1",
+  "description": "Electron download time calculator",
   "license": "MIT",
   "repository": "omrumbakitemiz/downloadtimecalculator",
   "author": {
