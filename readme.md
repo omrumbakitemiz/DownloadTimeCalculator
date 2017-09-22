@@ -2,7 +2,7 @@
 
 > Electron download time calculator
  
-![alt text](https://github.com/omrumbakitemiz/DownloadTimeCalculator/blob/master/images/ss.jpg "image")
+![alt text](https://github.com/omrumbakitemiz/DownloadTimeCalculator/blob/master/images/image1.jpg "image")
 
 
 ## Dev
