@@ -1,8 +1,7 @@
 # Download Time Calculator
 
 > Electron download time calculator
-
-Inline-style: 
+ 
 ![alt text](https://github.com/omrumbakitemiz/DownloadTimeCalculator/blob/master/images/ss.jpg "image")
 
 
