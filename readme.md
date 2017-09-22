@@ -2,6 +2,9 @@
 
 > Electron download time calculator
 
+Inline-style: 
+![alt text](https://github.com/omrumbakitemiz/DownloadTimeCalculator/images/ss.png "image")
+
 
 ## Dev
 
