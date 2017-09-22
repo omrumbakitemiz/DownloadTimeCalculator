@@ -3,7 +3,7 @@
 > Electron download time calculator
 
 Inline-style: 
-![alt text](https://github.com/omrumbakitemiz/DownloadTimeCalculator/images/ss.png "image")
+![alt text](https://github.com/omrumbakitemiz/DownloadTimeCalculator/blob/master/images/ss.jpg "image")
 
 
 ## Dev
